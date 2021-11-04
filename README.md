@@ -13,7 +13,7 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 rtt min/avg/max/mdev = 23.438/25.397/28.858/2.453 ms
 
 Please copy the below to an email 
-and send it to the Network Administrator,
+and send it to the Network Administrator
 
 ===================================
 
