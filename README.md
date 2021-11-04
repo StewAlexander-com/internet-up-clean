@@ -23,3 +23,5 @@ The MAC address is: <MAC Address>
 
 ===================================
 ```
+<br>
+* If the network is down it says so and still provides the hostname and the MAC address for the Network Admin
