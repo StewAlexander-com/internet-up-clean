@@ -19,7 +19,7 @@ hosts = [Google]
 
 IPList = socket.gethostbyname_ex(socket.gethostname())[-1]
 
-#ANSI color Squences for colored text results in printed statements
+#ANSI color sequences for colored text results in printed statements
 class bcolors:
     BLACK = "\033[0;30m"
     RED = "\033[0;31m"
